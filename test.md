@@ -1,1 +1,2 @@
-# A-reporistory-that-will-be-linked-with-RStudio
+ print("This file was created within RStudio")
+ print("And now lives on GitHub")
